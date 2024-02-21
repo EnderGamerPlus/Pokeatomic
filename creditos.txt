@@ -1,0 +1,181 @@
+Pokémon Essentials was created by:
+Flameguru
+Poccil (Peter O.)
+Maruno
+
+MKXP-z by:
+Roza
+Based on MKXP by Ancurio et al.
+
+With contributions from:
+AvatarMonkeyKirby, Marin, Boushy
+MiDas Mike, Brother1440, FL.
+PinkMan, Genzai Kawakami, Popper, help-14
+Rataime, IceGod64, Savordez, SoundSpawn
+Jacob O. Wobbrock, the__end, KitsuneKouta
+Wachunga, Lisa Anthony, Venom12, Near Fantastica, Luka S.J.
+and everyone else who helped out
+
+RPG Maker XP by:
+Enterbrain
+
+Modular Title Screen:
+
+GameFreak | BGMs for the official Title Screen tracks
+Luka S.J. | Designs, graphics and code
+
+
+
+Luka S.J. | Scripting Utilities
+
+Elite Battle: DX:
+
+
+Sprites:
+
+GameFreak | Original sprites from B/W/2 games
+Pokecheck.org | Ripping the sprites from B2/W2 roms
+PinkCatDragon | GIF to PNG conversion
+Tebited15, WolfPP, Issei Hyoudou, Nasasu, luckygirl88 | B/W styled trainer Red/Leaf sprites
+WolfPP | B/W styled trainer Leaf sprite
+Spriters-Resource (redblueyellow), Damien, WolfPP | Gen 5 ball sprites
+
+Sound Effects:
+GameFreak | Original sound effects from B/W/2 games
+BadSamaritan | Ripping the sound effects
+
+Other:
+Luka S.J. | Elite Battle: DX
+Pokémon Essentials | Base system
+Maruno, Marin, Golisopod User | General help, support, and bouncing off ideas
+PinkCatDragon | GIF to PNG conversion
+
+BW Save Screen v18.1 and v19
+HDrawer
+shiney570 (for the original script)
+
+
+
+
+
+
+
+
+Trainer Sprites (for EBDX):
+
+
+Spriters Resource
+FoxyBluereaver
+Flamejow
+
+
+Character Selection - by FL
+
+
+
+
+bag screen bw
+	
+Graphics: http://www.spriters-resource.com/ds/pokemonblack2white2/sheet/48047/
+Backgrounds: Ripped with Desmume.
+Edit: Erassus
+Graphical changes : CharizardThree3 or LackDejurane
+Script changes for v18 - StCooler
+Sounds: BadSamaritan
+Thanks to Maruno, Marin and Luka S.J for making me understand what to do actually.
+
+Pokedex BW Style
+Credits = DeepBlue PacificWaves, NettoHikari, Xtreme1992
+
+Door Zoom Animation - Marin
+
+BW Location Signposts - 	
+Shiney570 (Original)
+DeepBlue PacificWaves (Some Graphic Rips)
+Shashu Greninja (Update and Improvement)
+
+
+Modular Selection Screen	
+Credit if used:
+CourteousGrizzly
+Limnodromus (updated to Essentials v18)
+Shiney570 (original script)
+
+
+
+
+
+
+
+
+
+
+
+"Pokémon Essentials" was created by:
+Flameguru
+Poccil (Peter O.)
+Maruno
+
+With contributions from:
+AvatarMonkeyKirby<s>Marin
+Boushy<s>MiDas Mike
+Brother1440<s>Near Fantastica
+FL.<s>PinkMan
+Genzai Kawakami<s>Popper
+Golisopod User<s>Rataime
+help-14<s>Savordez
+IceGod64<s>SoundSpawn
+Jacob O. Wobbrock<s>the__end
+KitsuneKouta<s>Venom12
+Lisa Anthony<s>Wachunga
+Luka S.J.<s> 
+and everyone else who helped out
+
+"mkxp-z" by:
+Roza
+Based on MKXP by Ancurio et al.
+
+"RPG Maker XP" by:
+Enterbrain
+
+Pokémon is owned by:
+The Pokémon Company
+Nintendo
+Affiliated with Game Freak
+
+
+
+This is a non-profit fan-made game.
+No copyright infringements intended.
+Please support the official games!
+
+	
+GEN 8 SPRITES: https://reliccastle.com/resources/683/
+Compiled by TheLuiz
+Created by leparagon
+With contributions of: French-Cyndaquil, Z-nogyroP
+leparagon - Original artwork and resource
+Z-nogyroP, French-Cyndaquil - Unspecified contribuition and resizing on the original sprite sheet.
+Prodigal96 - GMAX Eevee and Lapras Backsprites
+Smogon Gen 8 Sprite Project - Reference
+TheLuiz - Formatting back sprites for use with Pokémon Essentials
+
+GEN 7 SPRITES: https://reliccastle.com/resources/601/
+Compiled by Vanilla Sunshine
+Created by leparagon
+fishbowlsoul90, Z-nogyroP, zlolxd, elazulmax, and mangamanga
+leparagon - Original artwork and resource
+Z-nogyroP, zlolxd, elazulmax, and mangamanga - Unspecified sprites
+fishbowlsoul90 - Tapu colors, Turtornator face, poses of Exeggutor, Solgaleo, and Lunala
+Smogon Sun/Moon Sprite Project - Reference
+Vanilla Sunshine - Formatting back sprites for use with Pokémon Essentials.
+
+GEN 6 SPRITES: https://reliccastle.com/resources/603/
+Compiled by Vanilla Sunshine
+Created by MrDollSteak, with contributions from Spherical Ice.
+MrDollSteak - Original resource creator
+Spherical-Ice - Vivillon back sprites (http://fav.me/828994456)
+Various contributors to the Gen VI: DS-Style Pokémon Sprite Resource
+
+GEN 5 SPRITES:
+Normal & Shiny from Dreadwing93, in Deviantart.
